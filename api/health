@@ -1,0 +1,1 @@
+{"status":"free_run_ready","providerMode":"mock","mode":"free-beta","missingForProduction":["DATABASE_URL","REDIS_URL"],"checks":{"build":"ok","api":"ok","sampleLibrary":"ready","supabase":"configured","productionAiProvider":false,"paidDependencies":"intentionally_skipped_for_free_run"},"warning":null}
