@@ -1,2 +1,3 @@
-:HL["/resume-optimizer-cn-free/_next/static/chunks/0yuu_ua6w.s63.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"resume-examples","param":null,"prefetchHints":0,"slots":{"children":{"name":"role","param":{"type":"d","key":"customer-success","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"aNdwOri-9HLgvtqFqP8O2"}
+:HL["/resume-optimizer-cn-free/_next/static/chunks/03z1~fe1evt~r.css","style"]
+:HL["/resume-optimizer-cn-free/brand/shark-logo.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"resume-examples","param":null,"prefetchHints":0,"slots":{"children":{"name":"role","param":{"type":"d","key":"customer-success","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Wed-gr46t0VXqIJJKprdm"}
