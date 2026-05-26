@@ -1,0 +1,3 @@
+:HL["/resume-optimizer-cn-free/_next/static/chunks/09dinja639cms.css","style"]
+:HL["/resume-optimizer-cn-free/brand/shark-logo.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"resume-examples","param":null,"prefetchHints":0,"slots":{"children":{"name":"role","param":{"type":"d","key":"frontend-campus-blocked","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"6Uog-dqsywaH5iBP9e2Qc"}
